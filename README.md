@@ -16,7 +16,7 @@ Based on the kernel version and system architecture, find and download the appro
 
 ### Steps to find the required modules:
 1. Open the repository link in your browser.
-2. Search for files that match your kernel version (e.g., `linux-headers-*` and `linux-kbuild-*`).
+2. Search for files that match your kernel version (e.g., `linux-headers-<YOUR-KERNAL-VERSION>` and `linux-kbuild-<YOUR-KERNAL-VERSION`).
 3. Copy the direct links of the required files and save them in a text file (e.g., `modules.txt`).
 
 ### Example:
